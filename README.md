@@ -28,3 +28,6 @@ Execute the user creation test suite:
 ~~~~bash
 pytest create_user_test.py -v
 ~~~~
+
+## Repository Workflow
+Managed with Git and GitHub over SSH.
